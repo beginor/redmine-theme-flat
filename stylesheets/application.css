@@ -88,7 +88,7 @@ input[type="button"] {
   -o-background-clip: padding-box;
   -webkit-background-clip: padding;
   background-clip: padding-box;
-  background: #d92e47;
+  background: #066C42;
   border: none;
   cursor: pointer;
   color: #fff;
@@ -120,7 +120,7 @@ input[type="submit"]:active,
 input[type="button"]:hover,
 input[type="button"]:active {
   background: #fff;
-  color: #d92e47;
+  color: #066C42;
 }
 button::-moz-focus-inner,
 a.button::-moz-focus-inner,
@@ -331,7 +331,7 @@ optgroup::-moz-focus-inner {
 .ie6_button,
 * html button,
 * html a.button {
-  background: #dddddd url('/images/button.png?1382606282') repeat-x;
+  background: #dddddd url('/images/button.png?1411629102') repeat-x;
   border: 1px solid;
   border-color: #dddddd #bbbbbb #999999;
   cursor: pointer;
@@ -492,7 +492,7 @@ h1, h2, h3, h4 {
 }
 
 a, a:link, a:visited {
-  color: #d92e47;
+  color: #066C42;
   -moz-transition: color 0.5s;
   -o-transition: color 0.5s;
   -webkit-transition: color 0.5s;
@@ -500,7 +500,7 @@ a, a:link, a:visited {
 }
 a:hover, a:link:hover, a:visited:hover {
   text-decoration: none;
-  color: #ed9aa6;
+  color: #0de58c;
 }
 th a, th a:link, th a:visited {
   color: #484848;
@@ -586,7 +586,7 @@ th {
   transition: border-color 0.5s;
 }
 #main-menu li a.selected, #main-menu li a:hover {
-  border-top: 3px solid #d92e47;
+  border-top: 3px solid #066C42;
   background: transparent;
 }
 #main-menu li a.selected {
@@ -674,14 +674,14 @@ div.issue {
 }
 #update fieldset.tabular legend {
   cursor: pointer;
-  color: #d92e47;
+  color: #066C42;
   -moz-transition: color 0.5s;
   -o-transition: color 0.5s;
   -webkit-transition: color 0.5s;
   transition: color 0.5s;
 }
 #update fieldset.tabular legend:hover {
-  color: #ed9aa6;
+  color: #0de58c;
 }
 #update fieldset.tabular legend small,
 #update fieldset.tabular div,
